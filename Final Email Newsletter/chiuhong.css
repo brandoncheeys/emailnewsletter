@@ -1,0 +1,20 @@
+h2 {
+	text-align: center;
+}
+
+.featuredimages {
+	height: 600px;
+	width: 1000px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+	background-color: beige;
+}
+
+.description {
+	
+	text-align: center;
+}
